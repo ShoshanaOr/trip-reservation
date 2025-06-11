@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\bll\\func\\reservbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|solutionrelative:bll\\func\\reservbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\api\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|solutionrelative:api\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\dal\\interfaces\\ireservdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ireservdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\dal\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|solutionrelative:dal\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\dal\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|solutionrelative:dal\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\dal\\models\\organizedtripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|solutionrelative:dal\\models\\organizedtripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\dal\\functions\\reservdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\reservdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\bll\\dto\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\api\\controllers\\reservcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F04AF93-9503-4B4F-906D-C2A5E347F4E0}|API\\API.csproj|solutionrelative:api\\controllers\\reservcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\bll\\func\\tripbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|solutionrelative:bll\\func\\tripbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\bll\\interf\\itripbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|solutionrelative:bll\\interf\\itripbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\bll\\dto\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\bll\\dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\dal\\functions\\tripdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2324E3E2-203B-440B-8D5C-A5795B4DDFFF}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\tripdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|d:\\users\\user\\documents\\c#\\\u200F\u200Ftripsprojectelse\\organizedtrips\\bll\\interf\\ireservbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAAE05F-535A-4934-B7DE-A2CC69643906}|BLL\\BLL.csproj|solutionrelative:bll\\interf\\ireservbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Reservation.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Models\\Reservation.cs",
+              "RelativeToolTip": "DAL\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:10:13.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrganizedTripContext.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Models\\OrganizedTripContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\OrganizedTripContext.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Models\\OrganizedTripContext.cs",
+              "RelativeToolTip": "DAL\\Models\\OrganizedTripContext.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:07:44.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:06:18.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T10:01:47.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\WeatherForecast.cs",
+              "RelativeToolTip": "API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:00:36.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:00:26.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Trip.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Models\\Trip.cs",
+              "RelativeToolTip": "DAL\\Models\\Trip.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:59:20.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IreservDal.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Interfaces\\IreservDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IreservDal.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Interfaces\\IreservDal.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IreservDal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:59:20.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:31:50.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TripController.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\Controllers\\TripController.cs",
+              "RelativeToolTip": "API\\Controllers\\TripController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:45:00.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TripDTO.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\DTO\\TripDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\TripDTO.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\DTO\\TripDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\TripDTO.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:24:08.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservBll.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\Func\\ReservBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Func\\ReservBll.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\Func\\ReservBll.cs",
+              "RelativeToolTip": "BLL\\Func\\ReservBll.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:00:30.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\DTO\\Mapper.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Mapper.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\DTO\\Mapper.cs",
+              "RelativeToolTip": "BLL\\DTO\\Mapper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:59:20.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservDal.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Functions\\ReservDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\ReservDal.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Functions\\ReservDal.cs",
+              "RelativeToolTip": "DAL\\Functions\\ReservDal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:59:20.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ItripBll.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\Interf\\ItripBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Interf\\ItripBll.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\Interf\\ItripBll.cs",
+              "RelativeToolTip": "BLL\\Interf\\ItripBll.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:33:30.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReservController.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\Controllers\\ReservController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ReservController.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\API\\Controllers\\ReservController.cs",
+              "RelativeToolTip": "API\\Controllers\\ReservController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:55:46.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TripDal.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Functions\\TripDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\TripDal.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\DAL\\Functions\\TripDal.cs",
+              "RelativeToolTip": "DAL\\Functions\\TripDal.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:59:20.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TripBll.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\Func\\TripBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Func\\TripBll.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\Func\\TripBll.cs",
+              "RelativeToolTip": "BLL\\Func\\TripBll.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswHEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:59:20.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IreservBll.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\Interf\\IreservBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Interf\\IreservBll.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\Interf\\IreservBll.cs",
+              "RelativeToolTip": "BLL\\Interf\\IreservBll.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:59:20.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\DTO\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\ReservationDTO.cs",
+              "ToolTip": "D:\\Users\\User\\Documents\\C#\\\u200F\u200FTripsProjectElse\\OrganizedTrips\\BLL\\DTO\\ReservationDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\ReservationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:59:20.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
